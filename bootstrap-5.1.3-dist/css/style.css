@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.shivaa{
+    border-radius: 10% !important;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.titulos {
+    margin-top: 10%;
+
+}
+
+.favs {
+    background-color: rgb(2, 15, 2);
+    padding: 10px;
+    margin-top: 1%;
+
+}
+
+.colors{
+    background-color: rgb(2, 15, 2);
+
+}
+
+.cores{
+    color: white;
+
+}
